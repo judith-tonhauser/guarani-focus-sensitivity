@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.176530612244898 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 3.176530612244898 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.538150805769904 
+            text = "" 
+        intervals [2]:
+            xmin = 1.538150805769904 
+            xmax = 1.9855001070463483 
+            text = "yvoty" 
+        intervals [3]:
+            xmin = 1.9855001070463483 
+            xmax = 2.394661053335779 
+            text = "pyta" 
+        intervals [4]:
+            xmin = 2.394661053335779 
+            xmax = 3.176530612244898 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "syl" 
+        xmin = 0 
+        xmax = 3.176530612244898 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.796432844496636 
+            text = "" 
+        intervals [2]:
+            xmin = 1.796432844496636 
+            xmax = 1.9855001070463483 
+            text = "ty" 
+        intervals [3]:
+            xmin = 1.9855001070463483 
+            xmax = 2.149714470525193 
+            text = "" 
+        intervals [4]:
+            xmin = 2.149714470525193 
+            xmax = 2.394661053335779 
+            text = "ta" 
+        intervals [5]:
+            xmin = 2.394661053335779 
+            xmax = 3.176530612244898 
+            text = "" 
+    item [3]:
+        class = "TextTier" 
+        name = "f0" 
+        xmin = 0 
+        xmax = 3.176530612244898 
+        points: size = 4 
+        points [1]:
+            number = 1.7899608644099483 
+            mark = "L" 
+        points [2]:
+            number = 1.9609986978377476 
+            mark = "H" 
+        points [3]:
+            number = 2.138490789130747 
+            mark = "L" 
+        points [4]:
+            number = 2.438613779862546 
+            mark = "H" 
+    item [4]:
+        class = "TextTier" 
+        name = "phon" 
+        xmin = 0 
+        xmax = 3.176530612244898 
+        points: size = 4 
+        points [1]:
+            number = 1.538150805769904 
+            mark = "4" 
+        points [2]:
+            number = 1.867411958792348 
+            mark = "LH" 
+        points [3]:
+            number = 1.9855001070463483 
+            mark = "4" 
+        points [4]:
+            number = 2.3063014936259463 
+            mark = "LH" 
